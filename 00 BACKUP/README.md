@@ -5,6 +5,7 @@
 ---
 
 ## A.D.A. SUPPLIES & LEASING SERVICES, INC
+
 - **Add (3/26)**: Revised and Resubmitted
 
 ---
@@ -42,6 +43,7 @@
 ---
 
 ## ALL SAFE INDUSTRIES, INC
+
 - **Add (3/24)**: Need Prepp
 
 ---
@@ -67,6 +69,7 @@
 ---
 
 ## AVIATE ENTERPRISES, INC
+
 - **Add (3/26)**: Motrec, Tennant
   - Cushman removed to get better pricing first
 - **Delete (3/25)**: GarretCallahan Items Submitted
@@ -78,6 +81,7 @@
 ---
 
 ## BALL OFFICE PRODUCTS, LLC
+
 - **EPA**: From Price Comp
 
 ---
@@ -107,6 +111,7 @@
 ---
 
 ## CBS, INC
+
 - **Add**: KYOCERA ITEMS
   - Prepped, Pending Confirmation from Client
 
@@ -165,6 +170,7 @@
 ---
 
 ## DANA SAFETY SUPPLY, INC
+
 - **Baseline (3/2)**: Labor Baseline
   - Submitted (3/26)
 - **EPA**: Labor
@@ -531,6 +537,7 @@
 ---
 
 ## SCULLY'S ALUMINUM BOATS, INC
+
 - **Add**: One Line Add, single aluminum boat
 
 ---
@@ -544,6 +551,7 @@
 ---
 
 ## SOUTHERN CONSOLIDATED HOLDINGS LLC
+
 - **Add**: Revisions in progress
 - **EPA**: Revised, Resubmitted
 
@@ -582,6 +590,7 @@
 ---
 
 ## TIC EXPRESS, LLC
+
 - **Sale**: Need to confirm removal worked
 - **Add**: Essandadnant
 
@@ -644,11 +653,13 @@
 ---
 
 ## VEHICLE SERVICE GROUP, LLC
+
 - **Add (3/20)**: Submitted in eOffer
 
 ---
 
 ## VERTA, LLC
+
 - **Labor Baseline**: Submission in progress
 
 ---
@@ -670,6 +681,7 @@
 ---
 
 ## WAVEBAND COMMUNICATIONS, INC
+
 - **Add**
 
 ---
@@ -702,4 +714,4 @@
 
 ---
 
-## WWW.TURNSTILES.US INC
+## <WWW.TURNSTILES.US> INC
