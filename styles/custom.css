@@ -1,0 +1,19 @@
+/* Style the links in the README.md */
+a {
+    color: #3a4147; /* Change link color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Make links bold */
+}
+
+a:hover {
+    color: #009e42; /* Change color on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Add an icon before each link */
+a::before {
+    content: "🔗 "; /* Add a link icon */
+    color: #0d1317;
+    font-size: 0.9em;
+    margin-right: 5px;
+}

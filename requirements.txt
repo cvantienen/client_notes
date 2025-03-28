@@ -1,4 +1,2 @@
-myst-parser
-sphinx
-sphinx-rtd-theme
-sphinx-autobuild
+mkdocs
+mkdocs-material

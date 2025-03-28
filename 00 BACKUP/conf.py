@@ -1,4 +1,0 @@
-
-extensions = [
-    'myst_parser',
-]
