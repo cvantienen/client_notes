@@ -124,8 +124,6 @@
  -------------------
 ### - [GREEN2GREEN](clients/GREEN2GREEN.md)
  -------------------
-### - [GSA-CS](clients/GSACS.md)
- -------------------
 ### - [HGS ENGINEERING, INC](clients/HGS_ENGINEERING_INC.md)
  -------------------
 ### - [HIGHCOM ARMOR SOLUTIONS, INC](clients/HIGHCOM_ARMOR_SOLUTIONS_INC.md)
@@ -308,8 +306,6 @@
  -------------------
 ### - [VALORENCE, LLC](clients/VALORENCE_LLC.md)
  -------------------
-### - [VANTAGE ROBOTICS, LLC](clients/VANTAGE_ROBOTICS_LLC.md)
- -------------------
 ### - [VEHICLE SERVICE GROUP, LLC](clients/VEHICLE_SERVICE_GROUP_LLC.md)
  -------------------
 ### - [VERTA, LLC](clients/VERTA_LLC.md)
@@ -325,8 +321,6 @@
 ### - [WAVEBAND COMMUNICATIONS, INC](clients/WAVEBAND_COMMUNICATIONS_INC.md)
  -------------------
 ### - [WECSYS LLC](clients/WECSYS_LLC.md)
- -------------------
-### - [WESTCARB ENTERPRISES, INC](clients/WESTCARB_ENTERPRISES_INC.md)
  -------------------
 ### - [WESTLAND ELECTRIC, INC](clients/WESTLAND_ELECTRIC_INC.md)
  -------------------

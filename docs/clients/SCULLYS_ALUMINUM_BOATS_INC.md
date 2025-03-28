@@ -8,11 +8,7 @@
 - Date Received: NULL
 - Summary: NULL
 - Submitted: NULL
-
+- Status: Pending Clarifications
 
 ## *Que*
 -----------------------------------
-### *IMG*
-- Date Received: NULL
-- Summary:  NULL
-- Submitted: NULL

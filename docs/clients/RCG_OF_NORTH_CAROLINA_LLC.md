@@ -6,13 +6,9 @@
 ### *ADD*
 
 - Date Received: NULL
-- Summary: NULL
+- Summary: Essendant price list Received
 - Submitted: NULL
 
 
 ## *Que*
 -----------------------------------
-### *IMG*
-- Date Received: NULL
-- Summary:  NULL
-- Submitted: NULL

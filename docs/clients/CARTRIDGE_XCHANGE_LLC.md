@@ -8,7 +8,7 @@
 - Date Received: NULL
 - Summary: NULL
 - Submitted: NULL
-
+- Status: In Progress
 
 ## *Que*
 -----------------------------------

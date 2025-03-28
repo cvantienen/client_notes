@@ -6,9 +6,10 @@
 
 ### *BASELINE Labor*
 
-- Date Received: 2-1
-- Summary: NULL
-- Submitted: NULL
+- Date Received: 3-1
+- Summary: Baselined the labor
+- Submitted: 3-26
+- Status: In Progress
 
 ### *ADD*
 
@@ -28,7 +29,7 @@
 - Summary:  NULL
 - Submitted: NULL
 
-## *Que*
+### *Que*
 
 --------
 

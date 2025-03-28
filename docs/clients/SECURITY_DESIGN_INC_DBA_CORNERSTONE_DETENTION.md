@@ -3,11 +3,11 @@
 ## *In Progress*
 --------------------
 
-### *ADD*
+### *EPA*
 
-- Date Received: NULL
-- Summary: NULL
-- Submitted: NULL
+- Date Received: 3/26
+- Summary: Increases from Price Comparison
+- Submitted: 3/28
 
 
 ## *Que*
