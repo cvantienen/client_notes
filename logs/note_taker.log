@@ -1,0 +1,406 @@
+2025-06-11 11:38:32,698 - __main__ - INFO - 
+=== Client Notes Manager ===
+
+2025-06-11 11:38:32,699 - __main__ - INFO - Start typing to search for a client (Tab for completion, Enter to select):
+2025-06-11 11:38:59,999 - __main__ - INFO - Exiting program.
+INFO - 
+=== Client Notes Manager ===
+
+INFO - Start typing to search for a client (Tab for completion, Enter to select):
+INFO - 
+Selected: VERTA LLC
+INFO - 
+Existing modifications:
+INFO - 1. [2025-06-10] Baseline Labor Needs Submission 
+INFO - 2. [2025-06-10] ADD Pending CO review 
+INFO - 3. [2025-06-10] EPA Signed
+INFO - 
+=== Client Notes Manager ===
+
+INFO - Start typing to search for a client (Tab for completion, Enter to select):
+INFO - 
+Selected: VERTA LLC
+INFO - 
+Existing modifications:
+INFO - 1. [2025-06-10] Baseline Labor Needs Submission 
+INFO - 2. [2025-06-10] ADD Pending CO review 
+INFO - 3. [2025-06-10] EPA Signed
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing modifications:
+1. [2025-06-10] Baseline Labor Needs Submission 
+2. [2025-06-10] ADD Pending CO review 
+3. [2025-06-10] EPA Signed
+
+Note archived successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing modifications:
+1. [2025-06-10] Baseline Labor Needs Submission 
+2. [2025-06-10] ADD Pending CO review 
+3. [2025-06-10] EPA Signed
+4. [2025-06-11] EPA Signed
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing modifications:
+1. [2025-06-10] Baseline Labor Needs Submission 
+2. [2025-06-10] ADD Pending CO review 
+3. [2025-06-10] EPA Signed
+
+Note archived successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+Exiting program.
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+Exiting program.
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-10] Note: Baseline Labor Needs Submission...
+2. [2025-06-10] Note: ADD Pending CO review...
+3. [2025-06-10] Note: EPA Signed
+
+
+--------------------
+
+## *Que*
+
+-----...
+
+Failed to archive note.
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-10] Note: Baseline Labor Needs Submission...
+2. [2025-06-10] Note: ADD Pending CO review...
+3. [2025-06-10] Note: EPA Signed
+
+
+--------------------
+
+## *Que*
+
+-----...
+
+Note archived successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+Exiting program.
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-10] Note: Baseline Labor Needs Submission...
+2. [2025-06-10] Note: ADD Pending CO review...
+3. [2025-06-11] Note: EPA Signed
+
+
+--------------------
+
+## *Que*
+
+-----...
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: WAVEBAND COMMUNICATIONS INC
+
+Existing notes:
+1. [2025-06-10] Note: BASELINE Needs Submission, revised documents confi...
+
+Note archived successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: WAVEBAND COMMUNICATIONS INC
+
+Existing notes:
+1. [2025-06-11] Note: BASELINE Needs Submission, revised documents confi...
+
+Current note:
+Started: 2025-06-10
+Updated: 2025-06-11
+Action: Note
+Summary: BASELINE Needs Submission, revised documents confirmed from co
+
+
+--------------------
+
+## *Que*
+
+-----------------------------------
+## *Archive*
+
+-----------------------------------
+No fields selected for update. Operation cancelled.
+
+Failed to update note.
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: WAVEBAND COMMUNICATIONS INC
+
+Existing notes:
+1. [2025-06-11] Note: BASELINE Needs Submission, revised documents confi...
+Note 'BASELINE Needs Submission, revised documents confirmed from co
+
+
+--------------------
+
+## *Que*
+
+-----------------------------------
+## *Archive*
+
+-----------------------------------' removed successfully.
+
+Note deleted successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+Exiting program.
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: WAVEBAND COMMUNICATIONS INC
+
+Existing notes:
+1. [2025-06-11] Note: BASELINE Needs Submission, revised documents confi...
+
+Note archived successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: WAVEBAND COMMUNICATIONS INC
+
+Existing notes:
+1. [2025-06-11] Note: BASELINE Needs Submission, revised documents confi...
+Note 'BASELINE Needs Submission, revised docum...' removed successfully.
+
+Note deleted successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+Exiting program.
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-10] Note: Baseline Labor Needs Submission...
+2. [2025-06-10] Note: ADD Pending CO review...
+3. [2025-06-11] Note: EPA Signed
+
+
+--------------------
+
+## *Que*
+
+-----...
+
+Enter note content (press Enter twice to finish):
+
+Note added successfully for VERTA LLC!
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-11] Epa: TEST...
+2. [2025-06-10] Note: Baseline Labor Needs Submission...
+3. [2025-06-10] Note: ADD Pending CO review...
+4. [2025-06-11] Note: EPA Signed
+
+
+--------------------
+
+## *Que*
+
+-----...
+
+Note archived successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+Exiting program.
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-11] Epa: TEST...
+2. [2025-06-10] Note: Baseline Labor Needs Submission...
+3. [2025-06-10] Note: ADD Pending CO review...
+4. [2025-06-11] Note: EPA Signed
+
+
+--------------------
+
+## *Que*
+
+-----...
+
+Failed to update note.
+Start typing to search for a client (Tab for completion, Enter to select):
+Exiting program.
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-11] Epa: TEST...
+2. [2025-06-10] Note: Baseline Labor Needs Submission...
+3. [2025-06-10] Note: ADD Pending CO review...
+4. [2025-06-11] Note: EPA Signed
+
+
+--------------------
+
+## *Que*
+
+-----...
+
+Failed to archive note.
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-11] Epa: TEST...
+2. [2025-06-10] Note: Baseline Labor Needs Submission...
+3. [2025-06-10] Note: ADD Pending CO review...
+4. [2025-06-11] Note: EPA Signed
+
+
+--------------------
+
+## *Que*
+
+-----...
+Note 'TEST...' removed successfully.
+
+Note deleted successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+Client 'ver' not found. Please try again.
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-10] Note: Baseline Labor Needs Submission...
+2. [2025-06-10] Note: ADD Pending CO review...
+3. [2025-06-11] Note: EPA Signed
+
+--------------------
+
+## *Que*
+
+------...
+
+Enter note content (press Enter twice to finish):
+
+Note added successfully for VERTA LLC!
+Start typing to search for a client (Tab for completion, Enter to select):
+Exiting program.
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-11] Terms: TEST...
+2. [2025-06-10] Note: Baseline Labor Needs Submission...
+3. [2025-06-10] Note: ADD Pending CO review...
+4. [2025-06-11] Note: EPA Signed
+
+--------------------
+
+## *Que*
+
+------...
+
+Note archived successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-10] Note: Baseline Labor Needs Submission...
+2. [2025-06-10] Note: ADD Pending CO review...
+3. [2025-06-11] Note: EPA Signed
+
+--------------------
+
+## *Que*
+
+------...
+4. [2025-06-11] Terms: TEST
+
+
+--------------------...
+
+Failed to update note.
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-10] Note: Baseline Labor Needs Submission...
+2. [2025-06-10] Note: ADD Pending CO review...
+3. [2025-06-11] Note: EPA Signed...
+4. [2025-06-11] Terms: TEST
+
+--------------------
+
+## *Que*
+
+------------...
+
+Current note:
+Started: 2025-06-11
+Updated: 2025-06-11
+Action: Terms
+Summary: TEST
+
+--------------------
+
+## *Que*
+
+-----------------------------------
+## *Archive*
+
+
+
+
+--------------------
+No fields selected for update. Operation cancelled.
+
+Failed to update note.
+Start typing to search for a client (Tab for completion, Enter to select):

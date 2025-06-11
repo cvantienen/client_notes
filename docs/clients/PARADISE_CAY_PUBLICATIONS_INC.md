@@ -2,7 +2,10 @@
 
 ## *In Progress*
 
-- 2025-06-10: ADD Sin Needs Resubmission 
+- Started: 2025-06-10
+  Updated: 2025-06-10
+  Action: Note
+  Summary: ADD Sin Needs Resubmission 
 
 
 --------------------
@@ -13,4 +16,3 @@
 ## *Archive*
 
 -----------------------------------
-

@@ -2,7 +2,10 @@
 
 ## *In Progress*
 
-- 2025-06-10: MSC UPDATED FILES Recieved & Downloaded
+- Started: 2025-06-10
+  Updated: 2025-06-10
+  Action: Note
+  Summary: MSC UPDATED FILES Recieved & Downloaded
 
 
 --------------------
@@ -13,4 +16,3 @@
 ## *Archive*
 
 -----------------------------------
-

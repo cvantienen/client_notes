@@ -2,7 +2,10 @@
 
 ## *In Progress*
 
-- 2025-06-11: Emailed FCP Transisiton Reminder
+- Started: 2025-06-11
+  Updated: 2025-06-11
+  Action: Note
+  Summary: Emailed FCP Transisiton Reminder
 
 
 --------------------
@@ -13,4 +16,3 @@
 ## *Archive*
 
 -----------------------------------
-

@@ -2,21 +2,23 @@
 
 ## *In Progress*
 
-- 2025-06-10: Epa Price comps submitted pending CO review
-
-
-- 2025-06-10: UTX ADD Signed
+- Started: 2025-06-10
+  Updated: 2025-06-10
+  Action: Note
+  Summary: Epa Price comps submitted pending CO review
 
 
 --------------------
 
 ## *Que*
 
-- 2025-06-10: EPA for 3 UTX Additions
+- Started: 2025-06-10
+  Updated: 2025-06-10
+  Action: Note
+  Summary: EPA for 3 UTX Additions
 
 
 -----------------------------------
 ## *Archive*
 
 -----------------------------------
-

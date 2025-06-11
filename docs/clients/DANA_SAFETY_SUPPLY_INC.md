@@ -2,7 +2,10 @@
 
 ## *In Progress*
 
-- 2025-06-10: EPA Submitted in eoffer
+- Started: 2025-06-10
+  Updated: 2025-06-10
+  Action: Note
+  Summary: EPA Submitted in eoffer
 
 
 --------------------
@@ -13,4 +16,3 @@
 ## *Archive*
 
 -----------------------------------
-

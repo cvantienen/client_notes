@@ -37,9 +37,6 @@
 
 - 2025-06-10: Epa Price comps submitted pending CO review
 
-
-- 2025-06-10: UTX ADD Signed
-
 ### Queued
 
 - 2025-06-10: EPA for 3 UTX Additions
