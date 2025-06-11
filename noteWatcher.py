@@ -93,7 +93,7 @@ def format_notes_for_md(notes):
     
     formatted = []
     for note in notes:
-        formatted.append(f"- **[{note['updated']}]** {note['action']}\n  Summary: {note['summary']}")
+        formatted.append(f"{note['action']} [{note['updated']}] - {note['summary']}")
 
     return "\n\n".join(formatted)
 

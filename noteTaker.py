@@ -129,7 +129,7 @@ def get_mod_action():
         custom_action = input("Enter custom action type: ")
         return custom_action
         
-    return answers["action"] if answers else "Note"
+    return answers["action"] if answers else "MOD"
 
 
 def get_user_content():
