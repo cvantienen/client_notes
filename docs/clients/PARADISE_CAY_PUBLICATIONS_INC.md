@@ -1,20 +1,16 @@
 # PARADISE CAY PUBLICATIONS INC
 
 ## *In Progress*
+
+- 2025-06-10: ADD Sin Needs Resubmission 
+
+
 --------------------
 
-### *ADD*
-
-- Date Received: 3/1
-- Summary: Needs Sip Update From Approved 2 line add 
-- Submitted: NULL
-
-### *DEL*
-
-- Date Received: 3/1
-- Summary: China Removals 
-- Submitted: NULL
-
 ## *Que*
+
+-----------------------------------
+## *Archive*
+
 -----------------------------------
 

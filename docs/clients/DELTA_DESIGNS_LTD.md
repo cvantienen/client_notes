@@ -1,18 +1,19 @@
-# DELTA DESIGNS, LTD
+# DELTA DESIGNS LTD
 
 ## *In Progress*
+
+- 2025-06-10: BASELINE Pending C&P
+
+
 --------------------
 
-### *ADD*
-
-- Date Received: NULL
-- Summary: NULL
-- Submitted: NULL
-
-
 ## *Que*
+
+- 2025-06-10: Delete and EPA needs Submission Following Baseline
+
+
 -----------------------------------
-### *IMG*
-- Date Received: NULL
-- Summary:  NULL
-- Submitted: NULL
+## *Archive*
+
+-----------------------------------
+

@@ -1,19 +1,22 @@
-# VERTA, LLC
+# VERTA LLC
 
 ## *In Progress*
+
+- 2025-06-10: Baseline Labor Needs Submission 
+
+
+- 2025-06-10: ADD Pending CO review 
+
+
+- 2025-06-10: EPA Signed
+
+
 --------------------
 
-### *Labor Baseline*
-
-- Date Received: 3/15
-- Summary: Baselined the labor
-- Submitted: 3/26
-- status: In Progress
-
-
 ## *Que*
+
 -----------------------------------
-### *IMG*
-- Date Received: NULL
-- Summary:  NULL
-- Submitted: NULL
+## *Archive*
+
+-----------------------------------
+

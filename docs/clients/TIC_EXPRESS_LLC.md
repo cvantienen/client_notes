@@ -1,39 +1,16 @@
-# TIC EXPRESS, LLC
+# TIC EXPRESS LLC
 
 ## *In Progress*
 
+- 2025-06-10: Ability One Deletion Submitted for 3 items. Sent La Proof of submision 
+
+
 --------------------
-
-### *Sale*
-
-- Date Received: NULL
-- Summary: Confirm Removal  
-- Submitted: NULL
-
-### *DEL*
-
-- Date Received: NULL
-- Summary: Essandant Updates
-- Submitted: NULL
-
-### *EPA*
-
-- Date Received: NULL
-- Summary: Essandant Updates
-- Submitted: NULL
-
-### *ADD*
-
-- Date Received: NULL
-- Summary: Essandant Updates
-- Submitted: NULL
 
 ## *Que*
 
---------------------
+-----------------------------------
+## *Archive*
 
-### *IMG*
+-----------------------------------
 
-- Date Received: NULL
-- Summary:  NULL
-- Submitted: NULL

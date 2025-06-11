@@ -1,18 +1,16 @@
 # TWEEDLY CHARLES
 
 ## *In Progress*
+
+- 2025-06-11: Emailed FCP Transisiton Reminder
+
+
 --------------------
 
-### *ADD*
-
-- Date Received: NULL
-- Summary: NULL
-- Submitted: NULL
-
-
 ## *Que*
+
 -----------------------------------
-### *IMG*
-- Date Received: NULL
-- Summary:  NULL
-- Submitted: NULL
+## *Archive*
+
+-----------------------------------
+

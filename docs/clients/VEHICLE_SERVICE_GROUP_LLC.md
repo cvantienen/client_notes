@@ -1,18 +1,16 @@
-# VEHICLE SERVICE GROUP, LLC
+# VEHICLE SERVICE GROUP LLC
 
 ## *In Progress*
+
+- 2025-06-10: ADD for Items Missing Pending CO review
+
+
 --------------------
 
-### *ADD*
-
-- Date Received: NULL
-- Summary: NULL
-- Submitted: NULL
-
-
 ## *Que*
+
 -----------------------------------
-### *IMG*
-- Date Received: NULL
-- Summary:  NULL
-- Submitted: NULL
+## *Archive*
+
+-----------------------------------
+
