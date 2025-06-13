@@ -1,4 +1,3 @@
-# DRODEX INC
 
 ## *In Progress*
 

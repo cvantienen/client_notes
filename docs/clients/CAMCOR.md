@@ -1,4 +1,3 @@
-# CAMCOR
 
 ## *In Progress*
 

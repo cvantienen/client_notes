@@ -1,4 +1,3 @@
-# PRIME CONCEPTS GROUP INC
 
 ## *In Progress*
 

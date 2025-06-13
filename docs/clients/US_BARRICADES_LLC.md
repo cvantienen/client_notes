@@ -1,4 +1,3 @@
-# US BARRICADES LLC
 
 ## *In Progress*
 

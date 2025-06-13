@@ -1,4 +1,3 @@
-# PANCAR INDUSTRIAL SUPPLY CORPORATION
 
 ## *In Progress*
 

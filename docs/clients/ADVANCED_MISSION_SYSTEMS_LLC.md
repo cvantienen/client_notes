@@ -1,4 +1,3 @@
-# ADVANCED MISSION SYSTEMS LLC
 
 ## *In Progress*
 

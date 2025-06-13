@@ -1,4 +1,3 @@
-# SCHULTE USA INC
 
 ## *In Progress*
 

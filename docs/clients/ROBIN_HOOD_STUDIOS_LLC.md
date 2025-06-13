@@ -1,4 +1,3 @@
-# ROBIN HOOD STUDIOS LLC
 
 ## *In Progress*
 

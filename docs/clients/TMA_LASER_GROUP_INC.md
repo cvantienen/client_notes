@@ -1,4 +1,3 @@
-# TMA LASER GROUP INC
 
 ## *In Progress*
 

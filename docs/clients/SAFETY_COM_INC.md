@@ -1,4 +1,3 @@
-# SAFETY COM INC
 
 ## *In Progress*
 

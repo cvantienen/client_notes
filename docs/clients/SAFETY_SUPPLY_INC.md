@@ -1,4 +1,3 @@
-# SAFETY SUPPLY INC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# BALL OFFICE PRODUCTS LLC
 
 ## *In Progress*
 

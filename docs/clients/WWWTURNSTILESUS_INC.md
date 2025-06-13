@@ -1,4 +1,3 @@
-# WWWTURNSTILESUS INC
 
 ## *In Progress*
 

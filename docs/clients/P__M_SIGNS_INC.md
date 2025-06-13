@@ -1,4 +1,3 @@
-# P  M SIGNS INC
 
 ## *In Progress*
 

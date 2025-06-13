@@ -1,4 +1,3 @@
-# CROPPER
 
 ## *In Progress*
 

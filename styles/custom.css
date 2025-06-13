@@ -1,6 +1,6 @@
 /* Style the links in the README.md */
 a {
-    color: #141619; /* Change link color */
+    color: #09aa19; /* Change link color */
     text-decoration: none; /* Remove underline */
     font-weight: bold; /* Make links bold */
 }
@@ -16,4 +16,11 @@ a::before {
     color: #0d1317;
     font-size: 0.9em;
     margin-right: 5px;
+}
+
+.scrollable {
+  max-height: 150px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 5px;
 }

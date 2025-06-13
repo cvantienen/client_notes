@@ -1,4 +1,3 @@
-# WESTONE LABORATORIES INC
 
 ## *In Progress*
 

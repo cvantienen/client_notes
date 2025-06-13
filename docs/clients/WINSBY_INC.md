@@ -1,4 +1,3 @@
-# WINSBY INC
 
 ## *In Progress*
 

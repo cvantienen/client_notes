@@ -1,4 +1,3 @@
-# GCE SYSTEMS GROUP LLC
 
 ## *In Progress*
 

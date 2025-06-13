@@ -1,4 +1,3 @@
-# GERMFREE LABORATORIES INCORPORATED
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# OV SOLUTIONS LLC
 
 ## *In Progress*
 

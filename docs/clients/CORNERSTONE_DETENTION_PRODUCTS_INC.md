@@ -1,4 +1,3 @@
-# CORNERSTONE DETENTION PRODUCTS INC
 
 ## *In Progress*
 

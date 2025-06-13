@@ -1,4 +1,3 @@
-# MACKENZIE ENTERPRISES LLC
 
 ## *In Progress*
 

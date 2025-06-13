@@ -1,4 +1,3 @@
-# NEW CHEF FASHION INC
 
 ## *In Progress*
 

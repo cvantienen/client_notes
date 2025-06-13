@@ -1,4 +1,3 @@
-# ALL SAFE INDUSTRIES INC
 
 ## *In Progress*
 

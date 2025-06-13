@@ -1,4 +1,3 @@
-# TIC EXPRESS LLC
 
 ## *In Progress*
 

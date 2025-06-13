@@ -1,4 +1,3 @@
-# COASTLINE LTD
 
 ## *In Progress*
 

@@ -405,3 +405,59 @@ No fields selected for update. Operation cancelled.
 Failed to update note.
 Start typing to search for a client (Tab for completion, Enter to select):
 Exiting program.
+
+=== Client Notes Manager ===
+
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: SECURITY 2020 INC
+
+Enter note content (press Enter twice to finish):
+
+Note added successfully for SECURITY 2020 INC!
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: VERTA LLC
+
+Existing notes:
+1. [2025-06-10] Note: Baseline Labor Needs Submission...
+2. [2025-06-10] Note: ADD Pending CO review...
+3. [2025-06-11] Note: EPA Signed...
+4. [2025-06-11] Terms: TEST
+
+--------------------
+
+## *Que*
+
+------------...
+Note 'TEST
+
+--------------------
+
+## *Que*
+
+--...' removed successfully.
+
+Note deleted successfully!
+Start typing to search for a client (Tab for completion, Enter to select):
+Client 'sou' not found. Please try again.
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: SOUTHERN CONSOLIDATED HOLDINGS LLC
+No existing notes to update.
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: SOUTHERN CONSOLIDATED HOLDINGS LLC
+
+Enter note content (press Enter twice to finish):
+
+Note added successfully for SOUTHERN CONSOLIDATED HOLDINGS LLC!
+Start typing to search for a client (Tab for completion, Enter to select):
+
+Selected: MANS DISTRIBUTORS INC
+
+Enter note content (press Enter twice to finish):
+
+Note added successfully for MANS DISTRIBUTORS INC!
+Start typing to search for a client (Tab for completion, Enter to select):
+Exiting program.

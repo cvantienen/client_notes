@@ -1,4 +1,3 @@
-# JET DOCK SYSTEMS INC
 
 ## *In Progress*
 

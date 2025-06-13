@@ -1,4 +1,3 @@
-# GALVION SOLDIER POWER LLC
 
 ## *In Progress*
 

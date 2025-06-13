@@ -1,4 +1,3 @@
-# ELECTROTECHNICS CORPORATION
 
 ## *In Progress*
 

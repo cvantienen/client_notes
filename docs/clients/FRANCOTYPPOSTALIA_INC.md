@@ -1,4 +1,3 @@
-# FRANCOTYPPOSTALIA INC
 
 ## *In Progress*
 

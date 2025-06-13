@@ -1,4 +1,3 @@
-# DELTA DESIGNS LTD
 
 ## *In Progress*
 
@@ -14,9 +13,13 @@
 
 - Started: 2025-06-10
   Updated: 2025-06-10
-  Action: Note
+  Action: DEL  
   Summary: Delete and EPA needs Submission Following Baseline
 
+- Started: 2025-06-10
+  Updated: 2025-06-10
+  Action: EPA  
+  Summary: Delete and EPA needs Submission Following Baseline
 
 -----------------------------------
 ## *Archive*

@@ -1,4 +1,4 @@
-# WHITE CAP LP
+## WHITE CAP LP
 
 ## *In Progress*
 

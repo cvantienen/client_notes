@@ -1,4 +1,3 @@
-# TRINET MEDICAL LLC
 
 ## *In Progress*
 

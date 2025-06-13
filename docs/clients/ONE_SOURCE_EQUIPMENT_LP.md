@@ -1,4 +1,3 @@
-# ONE SOURCE EQUIPMENT LP
 
 ## *In Progress*
 

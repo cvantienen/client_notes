@@ -1,4 +1,3 @@
-# SYLVANE INC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# FEDERAL SUPPLY LLC
 
 ## *In Progress*
 

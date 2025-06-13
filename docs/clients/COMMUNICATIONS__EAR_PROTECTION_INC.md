@@ -1,4 +1,3 @@
-# COMMUNICATIONS  EAR PROTECTION INC
 
 ## *In Progress*
 

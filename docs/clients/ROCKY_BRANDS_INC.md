@@ -1,4 +1,3 @@
-# ROCKY BRANDS INC
 
 ## *In Progress*
 

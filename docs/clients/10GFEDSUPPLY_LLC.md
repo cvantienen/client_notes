@@ -1,4 +1,3 @@
-# 10GFEDSUPPLY LLC
 
 ## *In Progress*
 

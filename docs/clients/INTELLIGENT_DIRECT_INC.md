@@ -1,4 +1,3 @@
-# INTELLIGENT DIRECT INC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# WESTLAND ELECTRIC INC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# ACE RUNNING LLC
 
 ## *In Progress*
 

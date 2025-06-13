@@ -1,4 +1,3 @@
-# MUNIREM ENVIRONMENTAL LLC
 
 ## *In Progress*
 

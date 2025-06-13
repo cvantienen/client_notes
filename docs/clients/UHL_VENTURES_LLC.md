@@ -1,4 +1,3 @@
-# UHL VENTURES LLC
 
 ## *In Progress*
 

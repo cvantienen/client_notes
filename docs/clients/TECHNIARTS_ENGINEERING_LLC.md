@@ -1,4 +1,3 @@
-# TECHNIARTS ENGINEERING LLC
 
 ## *In Progress*
 

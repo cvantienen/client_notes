@@ -1,4 +1,3 @@
-# MIDGEORGIA INDUSTRIAL SALES INC
 
 ## *In Progress*
 

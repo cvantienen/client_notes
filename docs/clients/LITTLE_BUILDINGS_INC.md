@@ -1,4 +1,3 @@
-# LITTLE BUILDINGS INC
 
 ## *In Progress*
 

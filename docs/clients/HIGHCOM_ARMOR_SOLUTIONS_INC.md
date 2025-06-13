@@ -1,4 +1,3 @@
-# HIGHCOM ARMOR SOLUTIONS INC
 
 ## *In Progress*
 

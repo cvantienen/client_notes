@@ -1,4 +1,3 @@
-# CANINE TACTICAL LLC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# MECHANICAL 24 INC
 
 ## *In Progress*
 

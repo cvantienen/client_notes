@@ -1,4 +1,3 @@
-# EXPLORANCE INC
 
 ## *In Progress*
 

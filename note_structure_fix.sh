@@ -1,13 +1,10 @@
 #!/bin/bash
-# filepath: /mnt/g/clients/client_notes/note_structure_fix.sh
 
 # Set the client directory path
 CLIENT_DIR="/mnt/g/clients/client_notes/docs/clients"
 
 # Initialize counters
 updated_count=0
-converted_notes=0
-sections_removed=0
 
 # Check if the directory exists
 if [ ! -d "$CLIENT_DIR" ]; then
@@ -15,114 +12,100 @@ if [ ! -d "$CLIENT_DIR" ]; then
     exit 1
 fi
 
-# Function to ensure proper section structure
-fix_file_structure() {
+# Function to fix header and section levels
+fix_headers_and_sections() {
     local file="$1"
     local filename=$(basename "$file")
     local modified=false
-    local content=$(cat "$file")
-    
-    # Extract client name from filename (remove extension and replace underscores with spaces)
-    local client_name=$(echo "${filename%.md}" | sed 's/_/ /g' | sed 's/  / \& /g')
-    
-    # Check if the file has a proper header with the client name
-    if ! grep -q "^# " "$file"; then
-        # Add client name header if missing
-        content="# ${client_name}\n--------------------\n${content}"
+
+    # Change client name header from # to ##
+    # Only change if it starts with a single #
+    if grep -q "^# [^#]" "$file"; then
+        sed -i '1s/^# /## /' "$file"
         modified=true
-        echo "Added header to: $filename"
+        echo "Changed client name header to ## in: $filename"
     fi
-    
-    # Check for required sections and add them if missing
-    sections=("In Progress" "Que" "Archive")
-    
-    for section in "${sections[@]}"; do
-        if ! echo "$content" | grep -q "## \*${section}\*"; then
-            # Section doesn't exist, add it
-            if [ "$section" == "Archive" ]; then
-                # Add separator before Archive section
-                content="${content}\n-----------------------------------\n## *${section}*\n\n"
-            else
-                content="${content}\n\n## *${section}*\n\n"
-            fi
-            modified=true
-            echo "Added $section section to: $filename"
-        fi
-    done
-    
-    # Write back to file if modified
+
+
+    # Remove only the first line starting with ##
+    sed -i '0,/^##/d' "$file" && modified=true
+
+    # Write a message if modified
     if [ "$modified" = true ]; then
-        echo -e "$content" > "$file"
         ((updated_count++))
     fi
-    
-    return 0
-}
-
-# Function to remove the Update section
-remove_update_section() {
-    local file="$1"
-    local filename=$(basename "$file")
-    
-    # Check if the file has an Update section
-    if grep -q "## \*Update\*" "$file"; then
-        # Use sed to remove the Update section and its content up to the next section
-        # This pattern matches from "## *Update*" to the next section header or end of file
-        sed -i '/## \*Update\*/,/## \*[A-Za-z]\+\*\|$/{/## \*[A-Za-z]\+\*\|$/!d}' "$file"
-        # Remove the Update section header itself
-        sed -i '/## \*Update\*/d' "$file"
-        
-        ((sections_removed++))
-        echo "Removed Update section from: $filename"
-        
-        # Clean up any excessive blank lines (more than 2 consecutive)
-        sed -i '/^$/N;/^\n$/N;/^\n\n$/d' "$file"
-    fi
-    
-    return 0
-}
-
-# Function to convert simple notes to detailed format
-convert_notes_to_detailed() {
-    local file="$1"
-    local filename=$(basename "$file")
-    
-    # Look for simple notes pattern (- YYYY-MM-DD: text)
-    if grep -q "^- [0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}: " "$file"; then
-        # Use sed to convert each simple note to detailed format
-        sed -i -E 's/- ([0-9]{4}-[0-9]{2}-[0-9]{2}): (.*)/- Started: \1\n  Updated: \1\n  Action: Note\n  Summary: \2/g' "$file"
-        
-        ((converted_notes++))
-        echo "Converted notes in: $filename"
-    fi
-    
-    return 0
 }
 
 # Process all markdown files
-echo "Starting structure fix for client note files..."
+echo "Starting header/section fix for client note files..."
 for file in "$CLIENT_DIR"/*.md; do
-    # Check if the file exists and is a regular file
     if [ -f "$file" ]; then
         echo "Processing: $(basename "$file")..."
-        
-        # Remove Update section
-        remove_update_section "$file"
-        
-        # Fix overall file structure
-        fix_file_structure "$file"
-        
-        # Convert simple notes to detailed format
-        convert_notes_to_detailed "$file"
+        fix_headers_and_sections "$file"
     fi
 done
 
-# Print summary
+# ...existing code...
+
 echo -e "\nDone! Updated $updated_count client files."
-echo "Removed Update section from $sections_removed files."
-echo "Converted $converted_notes files with simple notes to detailed format."
-echo -e "\nNew note structure format:"
-echo "- Started: YYYY-MM-DD"
-echo "  Updated: YYYY-MM-DD"
-echo "  Action: Note"
-echo "  Summary: Your detailed note text"
+
+: '
+================================================================================
+Script Explanation: How This Script Finds and Replaces Markdown Headers
+================================================================================
+
+This script is designed to standardize the header structure of client note markdown files. 
+It performs two main operations on each file in the specified CLIENT_DIR:
+
+1. **Client Name Header Update**
+   - The script looks for a client name header at the very top of the file that starts with a single hash (`# `).
+   - It uses `grep -q "^# [^#]" "$file"` to check if the first line starts with a single hash (and not multiple hashes).
+   - If found, it uses `sed -i '1s/^# /## /' "$file"` to replace the single hash with two hashes (`##`), making it a level-2 markdown header.
+   - This ensures all client names are consistently formatted as `## CLIENT NAME`.
+
+2. **Section Header Update**
+   - The script searches for section headers that start with exactly two hashes followed by an asterisk (e.g., `## *In Progress*`).
+   - It uses `sed -i 's/^## \*/### \*/g' "$file"` to replace all such occurrences with three hashes (`###`), making them level-3 headers.
+   - This is done globally for all lines in the file, ensuring all sections like *In Progress*, *Que*, and *Archive* are consistently formatted.
+
+3. **Tracking Changes**
+   - The script keeps a count of how many files were modified using the `updated_count` variable.
+   - It prints a summary and an example of the new structure at the end.
+
+--------------------------------------------------------------------------------
+How to Create Scripts to Edit the Note Structure Further
+--------------------------------------------------------------------------------
+
+- **Identify Patterns:** Use `grep` or `sed` to search for specific patterns in your markdown files. For example, to find all headers, you might use `grep "^#"`.
+
+- **Use sed for In-Place Editing:** 
+  - `sed` is a powerful stream editor for filtering and transforming text.
+  - To change a header, use: `sed -i 's/old_pattern/new_pattern/g' filename`
+  - For example, to change all `### *Archive*` to `#### *Archive*`, use:
+    `sed -i 's/^### \*Archive\*/#### \*Archive\*/g' filename`
+
+- **Automate Over Multiple Files:** 
+  - Use a `for` loop to process all files in a directory:
+    ```bash
+    for file in /path/to/dir/*.md; do
+        # your sed/awk/grep commands here
+    done
+    ```
+
+- **Test Your Script:** 
+  - Always test your script on a backup or a small subset of files to ensure it works as expected.
+
+- **Advanced Editing:** 
+  - For more complex changes, consider using `awk` for multi-line or context-aware edits.
+  - For example, to insert a line after every section header:
+    ```bash
+    awk '/^### \*/{print; print "New line here"; next} 1' file.md > tmp && mv tmp file.md
+    ```
+
+- **Version Control:** 
+  - Always use version control (like git) so you can revert changes if something goes wrong.
+
+This approach allows you to quickly and safely standardize and update the structure of many markdown files at once. You can adapt these techniques to add, remove, or modify any part of your note structure as your needs evolve.
+'
+
+

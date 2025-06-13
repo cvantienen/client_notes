@@ -5,7 +5,7 @@ import re
 from datetime import datetime
 
 CLIENT_DIR = "/mnt/g/clients/client_notes/docs/clients"
-MOD_FILE = "/mnt/g/clients/client_notes/docs/mods.md"
+MOD_FILE = "/mnt/g/clients/client_notes/docs/index.md"
 
 
 # Ensure logs directory exists
@@ -93,9 +93,15 @@ def format_notes_for_md(notes):
     
     formatted = []
     for note in notes:
-        formatted.append(f"{note['action']} [{note['updated']}] - {note['summary']}")
-
-    return "\n\n".join(formatted)
+        formatted.append(
+            "```code\n"
+            f"  Action: {note['action']}\n"
+            f"  Received: {note['started']}\n"
+            f"  Last Update: {note['updated']}\n"
+            f"  {note['summary']}\n"
+            "```\n"
+        )
+    return "\n".join(formatted)
 
 def format_notes_for_display(notes):
     """Format parsed notes for display in the console."""
@@ -105,9 +111,8 @@ def format_notes_for_display(notes):
     formatted = []
     for note in notes:
         summary_preview = note['summary'][:50] + "..." if len(note['summary']) > 50 else note['summary']
-        formatted.append(f"[{note['updated']}] {note['action']} - {summary_preview}")
-
-    return "\n".join(formatted)
+        formatted.append(f" {note['action']}: {summary_preview} -- {note['updated']}")
+    return "".join(formatted)
 
 def generate_mod_md(clients_data):
     """Generate a master markdown file with all client mods."""
@@ -118,17 +123,14 @@ def generate_mod_md(clients_data):
         
         # Write client sections
         for client in clients_data:
-            f.write(f"## {client['name']}\n")
+            f.write(f"### {client['name']}\n")
 
             if client['in_progress']:
-                f.write(f"### In Progress\n\n")
-                f.write(f"{format_notes_for_md(client['in_progress'])}\n\n")
-            
+                f.write(f"{format_notes_for_md(client['in_progress'])}\n")
             if client['que']:
-                f.write(f"### Queued\n\n")
-                f.write(f"{format_notes_for_md(client['que'])}\n\n")
-            
-            f.write("---\n\n")
+                f.write(f"{format_notes_for_md(client['que'])}\n")
+
+            f.write("---\n")
 
 
 def main():
@@ -148,11 +150,11 @@ def main():
         
         if client['in_progress']:
             for note in client['in_progress']:
-                logger.info(format_notes_for_display([note]))
-        
+                logger.info(f"{format_notes_for_display([note])}\n")
+
         if client['que']:
             for note in client['que']:
-                logger.info(format_notes_for_display([note]))
+                logger.info(f"{format_notes_for_display([note])}")
 
     logger.info(f"Found {len(clients_data)} clients with active tasks.")
 

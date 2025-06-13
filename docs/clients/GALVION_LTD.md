@@ -1,4 +1,3 @@
-# GALVION LTD
 
 ## *In Progress*
 

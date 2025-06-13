@@ -1,4 +1,3 @@
-# DOMINO PLASTICS MFG INC
 
 ## *In Progress*
 

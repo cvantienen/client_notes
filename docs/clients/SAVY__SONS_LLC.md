@@ -1,4 +1,3 @@
-# SAVY  SONS LLC
 
 ## *In Progress*
 

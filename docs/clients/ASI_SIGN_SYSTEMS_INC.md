@@ -1,4 +1,3 @@
-# ASI SIGN SYSTEMS INC
 
 ## *In Progress*
 

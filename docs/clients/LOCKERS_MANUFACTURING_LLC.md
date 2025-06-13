@@ -1,4 +1,3 @@
-# LOCKERS MANUFACTURING LLC
 
 ## *In Progress*
 

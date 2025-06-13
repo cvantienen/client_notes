@@ -1,4 +1,3 @@
-# TESCO CONTROLS INC
 
 ## *In Progress*
 

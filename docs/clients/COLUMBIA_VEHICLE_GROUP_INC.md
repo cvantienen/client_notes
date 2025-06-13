@@ -1,4 +1,3 @@
-# COLUMBIA VEHICLE GROUP INC
 
 ## *In Progress*
 

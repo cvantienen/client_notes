@@ -1,4 +1,3 @@
-# GANAHL LUMBER COMPANY
 
 ## *In Progress*
 

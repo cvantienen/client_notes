@@ -1,4 +1,3 @@
-# MOMAR INC
 
 ## *In Progress*
 

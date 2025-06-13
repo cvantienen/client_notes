@@ -1,4 +1,3 @@
-# GLOBAL INTERPRETING NETWORK INC
 
 ## *In Progress*
 

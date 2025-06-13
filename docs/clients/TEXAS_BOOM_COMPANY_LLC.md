@@ -1,4 +1,3 @@
-# TEXAS BOOM COMPANY LLC
 
 ## *In Progress*
 

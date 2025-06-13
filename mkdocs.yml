@@ -8,8 +8,8 @@ theme:
 
 # Navigation structure
 nav:
-  - Clients: index.md
-  - Mods In Progress: mods.md
+  - Mods In Progress: index.md
+  - Clients: clients.md
   - 10GFEDSUPPLY, LLC: clients/10GFEDSUPPLY_LLC.md
   - A.D.A. SUPPLIES & LEASING SERVICES, INC: clients/ADA_SUPPLIES__LEASING_SERVICES_INC.md
   - AA K BUSINESS ENVIRONMENTS INCORPORATED: clients/AA_K_BUSINESS_ENVIRONMENTS_INCORPORATED.md

@@ -1,4 +1,3 @@
-# TUFFSTUFF FITNESS INTERNATIONAL INC
 
 ## *In Progress*
 

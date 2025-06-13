@@ -1,4 +1,3 @@
-# KLINGE CORPORATION
 
 ## *In Progress*
 

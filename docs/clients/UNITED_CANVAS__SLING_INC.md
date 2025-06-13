@@ -1,4 +1,3 @@
-# UNITED CANVAS  SLING INC
 
 ## *In Progress*
 

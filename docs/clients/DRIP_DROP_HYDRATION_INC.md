@@ -1,4 +1,3 @@
-# DRIP DROP HYDRATION INC
 
 ## *In Progress*
 

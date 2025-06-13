@@ -1,4 +1,3 @@
-# VIDEORAY LLC
 
 ## *In Progress*
 

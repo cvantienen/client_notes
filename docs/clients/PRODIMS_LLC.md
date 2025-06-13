@@ -1,4 +1,3 @@
-# PRODIMS LLC
 
 ## *In Progress*
 

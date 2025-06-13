@@ -1,4 +1,3 @@
-# LES DM INC
 
 ## *In Progress*
 

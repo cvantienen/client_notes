@@ -1,4 +1,3 @@
-# CHCH INC
 
 ## *In Progress*
 

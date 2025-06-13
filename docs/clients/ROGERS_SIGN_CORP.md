@@ -1,4 +1,3 @@
-# ROGERS SIGN CORP
 
 ## *In Progress*
 

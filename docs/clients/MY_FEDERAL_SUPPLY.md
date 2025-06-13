@@ -1,4 +1,3 @@
-# MY FEDERAL SUPPLY
 
 ## *In Progress*
 

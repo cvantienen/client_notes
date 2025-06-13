@@ -1,4 +1,3 @@
-# ACCENT APPAREL COMPANY INC
 
 ## *In Progress*
 

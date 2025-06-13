@@ -1,4 +1,3 @@
-# DONAHUE  SONS MGMT INC
 
 ## *In Progress*
 

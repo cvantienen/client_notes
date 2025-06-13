@@ -1,4 +1,3 @@
-# PANEL BUILT INC
 
 ## *In Progress*
 

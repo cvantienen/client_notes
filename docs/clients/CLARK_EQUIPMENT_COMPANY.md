@@ -1,4 +1,3 @@
-# CLARK EQUIPMENT COMPANY
 
 ## *In Progress*
 

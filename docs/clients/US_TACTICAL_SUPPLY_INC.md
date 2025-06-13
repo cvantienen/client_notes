@@ -1,4 +1,3 @@
-# US TACTICAL SUPPLY INC
 
 ## *In Progress*
 

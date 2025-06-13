@@ -1,4 +1,3 @@
-# LUCAS PROMOTIONAL PRODUCTS INC
 
 ## *In Progress*
 

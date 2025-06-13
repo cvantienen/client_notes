@@ -1,4 +1,3 @@
-# EXHIBIT ARTS LLC
 
 ## *In Progress*
 

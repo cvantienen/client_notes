@@ -1,4 +1,3 @@
-# VALORENCE LLC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# MONITOR PEST CONTROL INC
 
 ## *In Progress*
 

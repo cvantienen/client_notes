@@ -1,4 +1,3 @@
-# MAP CONSULTING SERVICES INC
 
 ## *In Progress*
 

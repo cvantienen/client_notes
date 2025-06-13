@@ -1,4 +1,3 @@
-# CAMPBELL INC K R
 
 ## *In Progress*
 

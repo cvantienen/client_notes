@@ -1,4 +1,3 @@
-# ART LINE WHOLESALERS INC
 
 ## *In Progress*
 

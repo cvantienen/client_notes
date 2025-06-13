@@ -1,4 +1,3 @@
-# ENFIELD ENTERPRISES INC
 
 ## *In Progress*
 

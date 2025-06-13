@@ -1,4 +1,3 @@
-# EHI LTD of VIRGINIA
 
 ## *In Progress*
 

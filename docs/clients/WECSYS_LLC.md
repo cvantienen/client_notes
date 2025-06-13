@@ -1,4 +1,3 @@
-# WECSYS LLC
 
 ## *In Progress*
 

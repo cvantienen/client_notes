@@ -1,4 +1,3 @@
-# GOLD COAST APPLIANCES INC
 
 ## *In Progress*
 

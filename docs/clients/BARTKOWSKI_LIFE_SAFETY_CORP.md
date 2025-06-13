@@ -1,4 +1,3 @@
-# BARTKOWSKI LIFE SAFETY CORP
 
 ## *In Progress*
 

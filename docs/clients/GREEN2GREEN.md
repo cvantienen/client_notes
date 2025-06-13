@@ -1,4 +1,3 @@
-# GREEN2GREEN
 
 ## *In Progress*
 

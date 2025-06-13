@@ -1,4 +1,3 @@
-# PRESCIENT TECHNOLOGIES LLC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# HOOT DESIGN CO LLC
 
 ## *In Progress*
 

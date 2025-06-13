@@ -1,4 +1,3 @@
-# COMMSKI LLC
 
 ## *In Progress*
 

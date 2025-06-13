@@ -1,4 +1,3 @@
-# WALKER DESIGN INC
 
 ## *In Progress*
 

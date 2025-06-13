@@ -1,4 +1,3 @@
-# CARTRIDGE XCHANGE LLC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# PLUGIN STORAGE SYSTEMS INC
 
 ## *In Progress*
 

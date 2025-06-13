@@ -1,4 +1,3 @@
-# VALIANT PRODUCTS CORPORATION
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# KLOVER PRODUCTS INCORPORATED
 
 ## *In Progress*
 

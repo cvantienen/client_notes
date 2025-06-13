@@ -1,4 +1,3 @@
-# OUTLAW INDUSTRIES LLC
 
 ## *In Progress*
 

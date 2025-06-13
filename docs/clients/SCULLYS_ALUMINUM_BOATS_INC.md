@@ -1,4 +1,3 @@
-# SCULLYS ALUMINUM BOATS INC
 
 ## *In Progress*
 

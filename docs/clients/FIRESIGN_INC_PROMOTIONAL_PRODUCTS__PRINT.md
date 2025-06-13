@@ -1,4 +1,3 @@
-# FIRESIGN INC PROMOTIONAL PRODUCTS  PRINT
 
 ## *In Progress*
 

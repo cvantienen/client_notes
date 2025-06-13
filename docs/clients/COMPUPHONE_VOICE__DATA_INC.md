@@ -1,4 +1,3 @@
-# COMPUPHONE VOICE  DATA INC
 
 ## *In Progress*
 

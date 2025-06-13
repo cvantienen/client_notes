@@ -1,4 +1,3 @@
-# CLARVAN INC
 
 ## *In Progress*
 

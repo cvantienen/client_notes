@@ -1,4 +1,3 @@
-# TAG ASSOCIATES INC
 
 ## *In Progress*
 

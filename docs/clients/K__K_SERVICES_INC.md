@@ -1,4 +1,3 @@
-# K  K SERVICES INC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# HGS ENGINEERING INC
 
 ## *In Progress*
 

@@ -1,4 +1,3 @@
-# ADVANCE DIGITAL SYSTEMS INC
 
 ## *In Progress*
 

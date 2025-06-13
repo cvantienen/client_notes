@@ -1,4 +1,3 @@
-# W J C INC
 
 ## *In Progress*
 

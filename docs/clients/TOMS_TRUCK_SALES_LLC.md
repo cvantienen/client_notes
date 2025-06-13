@@ -1,4 +1,3 @@
-# TOMS TRUCK SALES LLC
 
 ## *In Progress*
 

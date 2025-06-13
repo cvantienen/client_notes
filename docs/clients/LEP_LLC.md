@@ -1,4 +1,3 @@
-# LEP LLC
 
 ## *In Progress*
 

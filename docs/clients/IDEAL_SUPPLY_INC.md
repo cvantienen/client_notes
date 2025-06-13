@@ -1,4 +1,3 @@
-# IDEAL SUPPLY INC
 
 ## *In Progress*
 
