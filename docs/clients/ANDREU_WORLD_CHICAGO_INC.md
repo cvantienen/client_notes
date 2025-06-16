@@ -1,6 +1,4 @@
-## ANDREU WORLD CHICAGO INC
-
-## *In Progress*
+# *In Progress*
 
 --------------------
 

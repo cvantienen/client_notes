@@ -1,5 +1,3 @@
-## ACTION CHEMICAL INC
-
 ## *In Progress*
 
 --------------------

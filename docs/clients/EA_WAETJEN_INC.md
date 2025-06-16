@@ -1,5 +1,3 @@
-## EA WAETJEN INC
-
 ## *In Progress*
 
 --------------------

@@ -1,4 +1,3 @@
-## LUND INDUSTRIES INC
 
 ## *In Progress*
 

@@ -1,5 +1,3 @@
-## WILLOW HILL SUPPLY LLC
-
 ## *In Progress*
 
 --------------------

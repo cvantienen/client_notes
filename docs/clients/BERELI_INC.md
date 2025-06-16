@@ -5,6 +5,7 @@
   Updated: 2025-06-13
   Action: ADD 
   Summary: Add New Manufatures, Pending LOS
+  Status: Needs Submission 
 --------------------
 
 ## *Que*

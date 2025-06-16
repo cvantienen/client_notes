@@ -1,5 +1,3 @@
-## MERCURY FLOOR MACHINES INC
-
 ## *In Progress*
 
 --------------------

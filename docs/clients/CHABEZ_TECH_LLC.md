@@ -1,5 +1,3 @@
-## CHABEZ TECH LLC
-
 ## *In Progress*
 
 --------------------

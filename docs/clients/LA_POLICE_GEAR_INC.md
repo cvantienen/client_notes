@@ -1,5 +1,3 @@
-## LA POLICE GEAR INC
-
 ## *In Progress*
 
 --------------------

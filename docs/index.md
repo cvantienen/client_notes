@@ -2,182 +2,238 @@
 
 ### AMERICAN ENVIRONMENTAL SUPPLY LLC
 ```code
-  Action: Baseline
-  Received: 2025-06-08
-  Last Update: 2025-06-13
-  Vendor Profile Approved, Product Baseline Started
+Baseline 
+Vendor Profile Approved, Product Baseline Started
+Started On: 2025-06-08
+Last Updated: 2025-06-13
+Status: Needs Submission
+
 ```
 
 ---
 ### ARCTIC OFFICE MACHINE INC
 ```code
-  Action: Baseline
-  Received: 2025-06-08
-  Last Update: 2025-06-13
-  Vendor Profile Approved, Product Baseline Started
+Baseline 
+Vendor Profile Approved, Product Baseline Started
+Started On: 2025-06-08
+Last Updated: 2025-06-13
+Status: Needs Submission
+
 ```
 
 ---
 ### AVIATE ENTERPRISES INC
 ```code
-  Action: DESCRIPTION Change
-  Received: 2025-06-10
-  Last Update: 2025-06-13
-  Photo Adds Needed for 4 manufactures, pending Nepal
+DESCRIPTION Change
+Photo Adds Needed for 4 manufactures, pending Nepal
+Started On: 2025-06-10
+Last Updated: 2025-06-13
+Status: Needs Submission
+
 ```
 
+
 ```code
-  Action: ADD
-  Received: 2025-06-10
-  Last Update: 2025-06-13
-  FireKing Adds that have already been approved, large add prepp in progress.
+ADD
+FireKing Adds that have already been approved, large add prepp in progress. 
+Started On: 2025-06-10
+Last Updated: 2025-06-13
+Status: Needs Submission
+
 ```
 
 ---
 ### BERELI INC
 ```code
-  Action: ADD
-  Received: 2025-06-10
-  Last Update: 2025-06-13
-  Add New Manufatures, Pending LOS
+ADD 
+Add New Manufatures, Pending LOS
+Started On: 2025-06-10
+Last Updated: 2025-06-13
+Status: Needs Submission
+
 ```
 
 ---
 ### CORPORATE HOUSING ASSOCIATES LLC
 ```code
-  Action: Baseline
-  Received: 2025-06-08
-  Last Update: 2025-06-13
-  Vendor Profile Approved, Product Baseline Started
+Baseline 
+Vendor Profile Approved, Product Baseline Started
+Started On: 2025-06-08
+Last Updated: 2025-06-13
+Status: Needs Submission
+
 ```
 
 ---
 ### DANA SAFETY SUPPLY INC
 ```code
-  Action: EPA
-  Received: 2025-06-10
-  Last Update: 2025-06-10
-  EPA Submitted in eoffer
+EPA
+EPA Submitted in eoffer
+Started On: 2025-06-10
+Last Updated: 2025-06-10
+Status: Pending Review
+
 ```
 
 ---
 ### DELTA DESIGNS LTD
 ```code
-  Action: Note
-  Received: 2025-06-10
-  Last Update: 2025-06-10
-  BASELINE Pending C&P
-```
+Baseline
+BASELINE Pending C&P
+Started On: 2025-06-10
+Last Updated: 2025-06-10
+Status: Submitted
 
-```code
-  Action: DEL
-  Received: 2025-06-10
-  Last Update: 2025-06-10
-  Delete and EPA needs Submission Following Baseline
-```
-
-```code
-  Action: EPA
-  Received: 2025-06-10
-  Last Update: 2025-06-10
-  Delete and EPA needs Submission Following Baseline
 ```
 
 ---
 ### MANS DISTRIBUTORS INC
 ```code
-  Action: DESCRIPTION CHANGE
-  Received: 2025-06-10
-  Last Update: 2025-06-13
-  Recently Approved Add Had issue where product names mismatched
+DESCRIPTION CHANGE 
+Recently Approved Add Had issue where product names mismatched 
+Started On: 2025-06-10
+Last Updated: 2025-06-13
+Status: Needs Submission
+
 ```
 
 ---
 ### OLIVER COMMUNICATIONS GROUP INC
 ```code
-  Action: Baseline
-  Received: 2025-06-08
-  Last Update: 2025-06-13
-  Vendor Profile Approved, Product Baseline Started
-```
+Baseline 
+Vendor Profile Approved, Product Baseline Started
+Started On: 2025-06-08
+Last Updated: 2025-06-13
+Status: Needs Submission
 
----
-### PARADISE CAY PUBLICATIONS INC
-```code
-  Action: ADD SIN
-  Received: 2025-06-10
-  Last Update: 2025-06-10
-  ADD Sin Needs Resubmission, last add for one item was rejected
 ```
 
 ---
 ### RCG OF NORTH CAROLINA LLC
 ```code
-  Action: TDB
-  Received: 2025-06-10
-  Last Update: 2025-06-10
-  MSC UPDATED FILES Recieved & Downloaded
+TDB
+MSC UPDATED FILES Recieved & Downloaded
+Started On: 2025-06-10
+Last Updated: 2025-06-10
+Status: Needs Submission
+
 ```
 
 ---
 ### SECURITY 2020 INC
 ```code
-  Action: ADD
-  Received: 2025-06-10
-  Last Update: 2025-06-13
-  ADD New Manufacture
+ADD
+ADD New Manufacture
+Started On: 2025-06-10
+Last Updated: 2025-06-13
+Status: Pending Nepal
+
+```
+
+---
+### SOUTHERN CONSOLIDATED HOLDINGS LLC
+```code
+EPA
+Blanked 10% entire Catalog, Submitted pending CO review
+Started On: 2025-06-08
+Last Updated: 2025-06-10
+Status: Submitted Pending Reivew
+
 ```
 
 ---
 ### TIC EXPRESS LLC
 ```code
-  Action: Note
-  Received: 2025-06-10
-  Last Update: 2025-06-10
-  Ability One Deletion Submitted for 3 items. Sent La Proof of submision
+TBD
+Essendant Updated Pricelist recieved 
+Started On: 2025-06-01
+Last Updated: 2025-06-10
+Status: Needs Submisison
+
 ```
 
 ---
 ### TWEEDLY CHARLES
 ```code
-  Action: Baseline
-  Received: 2025-06-11
-  Last Update: 2025-06-11
-  Emailed FCP Transisiton Reminder
+Baseline
+Emailed FCP Transisiton Reminder
+Started On: 2025-06-11
+Last Updated: 2025-06-11
+Status: No Response
+
 ```
 
 ---
 ### ULTIMATE TRAINING MUNITIONS INC
 ```code
-  Action: EPA
-  Received: 2025-06-10
-  Last Update: 2025-06-13
-  Epa CSP Info Revised and submitted pending CO review,
+ADD
+For 3 UTX Additions, Signed & Approved
+Started On: 2025-06-10
+Last Updated: 2025-06-12
+Status: Approved
+
+```
+
+```code
+EPA
+For 3 UTX Additions
+Started On: 2025-06-10
+Last Updated: 2025-06-12
+Status: Needs Submission
+
 ```
 
 ---
 ### VEHICLE SERVICE GROUP LLC
 ```code
-  Action: ADD
-  Received: 2025-06-10
-  Last Update: 2025-06-10
-  ADD for Items Missing Pending CO review
+ADD
+ADD for Items Missing Pending CO review
+Started On: 2025-06-10
+Last Updated: 2025-06-10
+Status: Submitted Under Review
+
+```
+
+```code
+EPA
+Current Items in product file sent and returned with possuible price changes
+Started On: 2025-06-10
+Last Updated: 2025-06-10
+Status: Needs Submission
+
 ```
 
 ---
 ### VERTA LLC
 ```code
-  Action: Baseline
-  Received: 2025-06-10
-  Last Update: 2025-06-10
-  Baseline Labor Needs Submission
+Baseline
+Baseline Labor Needs Submission 
+Started On: 2025-06-10
+Last Updated: 2025-06-10
+Status: FCP Validation In Progress
+
+
 ```
 
+
 ```code
-  Action: ADD
-  Received: 2025-06-10
-  Last Update: 2025-06-13
-  ADD Rejected needs Resubmission
+ADD
+ADD Rejected needs Resubmission  
+Started On: 2025-06-10
+Last Updated: 2025-06-13
+Status: Needs Submission
+
+```
+
+---
+### WAVEBAND COMMUNICATIONS INC
+```code
+Baseline
+BASELINE Needs Submission, pending confirmation on revised documents confirmed from co
+Started On: 2025-06-10
+Last Updated: 2025-06-11
+Status: Needs Submission
+
 ```
 
 ---

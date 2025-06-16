@@ -3,25 +3,28 @@
 
 - Started: 2025-06-10
   Updated: 2025-06-10
-  Action: Note
+  Action: Baseline
   Summary: BASELINE Pending C&P
-
+  Status: Submitted 
 
 --------------------
 
 ## *Que*
 
-- Started: 2025-06-10
+- Started: 2025-06-05
   Updated: 2025-06-10
   Action: DEL  
-  Summary: Delete and EPA needs Submission Following Baseline
+  Summary:File Send With Updated Pricing & Removals
+  Status: Submission Pending Baseline
 
-- Started: 2025-06-10
+- Started: 2025-06-05
   Updated: 2025-06-10
   Action: EPA  
-  Summary: Delete and EPA needs Submission Following Baseline
+  Summary:File Send With Updated Pricing & Removals
+  Status: Submission Pending Baseline
 
------------------------------------
+---------------------------
+
 ## *Archive*
 
------------------------------------
+---------------------------
