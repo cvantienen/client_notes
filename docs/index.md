@@ -87,23 +87,23 @@ Status: Submitted
 ```
 
 ---
-### MANS DISTRIBUTORS INC
-```code
-DESCRIPTION CHANGE 
-Recently Approved Add Had issue where product names mismatched 
-Started On: 2025-06-10
-Last Updated: 2025-06-13
-Status: Needs Submission
-
-```
-
----
 ### OLIVER COMMUNICATIONS GROUP INC
 ```code
 Baseline 
 Vendor Profile Approved, Product Baseline Started
 Started On: 2025-06-08
 Last Updated: 2025-06-13
+Status: Needs Submission
+
+```
+
+---
+### PARADISE CAY PUBLICATIONS INC
+```code
+ADD SIN
+ADD Sin Needs Resubmission, last add for one item was rejected 
+Started On: 2025-06-10
+Last Updated: 2025-06-10
 Status: Needs Submission
 
 ```

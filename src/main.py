@@ -1,21 +1,29 @@
 import time
 import os
 import logging
+import colorlog
 
 from note import get_active_mods
 
 CLIENT_DIR = "/mnt/g/clients/client_notes/docs/clients"
 MOD_FILE = "/mnt/g/clients/client_notes/docs/index.md"
 
+handler = colorlog.StreamHandler()
+handler.setFormatter(colorlog.ColoredFormatter(
+    "%(log_color)s%(message)s",
+    log_colors={
+        'DEBUG':    'cyan',
+        'INFO':     'white',
+        'WARNING':  'yellow',
+        'ERROR':    'red',
+        'CRITICAL': 'red,bg_white',
+    }
+))
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(message)s",
-    handlers=[
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
+logger = colorlog.getLogger(__name__)
+logger.addHandler(handler)
+logger.setLevel(logging.DEBUG)  # Set to DEBUG to capture all logs
+logger.propagate = False  # Prevent duplicate logs if root logger is configured
 
 
 def format_notes_for_md(notes:list):
@@ -52,8 +60,7 @@ def get_all_active_mods():
             
     return all_client_mods
 
-
-def generate_mod_md(client_notes):
+def generate_mod_md(client_notes:list):
     """Generate a master markdown file with all client mods."""
     with open(MOD_FILE, 'w') as f:
         # Write header
@@ -74,8 +81,11 @@ def generate_mod_md(client_notes):
 def display_mods_to_console(client_notes):
     """Log the generated markdown file."""
         # Log information about what was found
+    logger.critical(
+        "Active Mods\n-----------------------------"
+    )
     for client in client_notes:
-        logger.info(f"\n{client['name']}")
+        logger.debug(f"\n{client['name']}")
         
         if client['in_progress']:
             for note in client['in_progress']:

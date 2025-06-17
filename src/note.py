@@ -1,5 +1,5 @@
 import re
-
+import colorlog
 
 NOTE_PATTERN = (
     r"- Started: (\d{4}-\d{2}-\d{2})\n"
@@ -9,7 +9,16 @@ NOTE_PATTERN = (
     r"\n\s+Status: (.+?)"           # Status is required and always last
     r"(?=\n\n- Started:|\Z)"
 )
-    
+
+NOTE_SECTIONS = {
+    "In Progress": r"## \*In Progress\*\s*(.*?)(?=\n\s*----|\n----|----|$)",
+    "Que": r"## \*Que\*\s*(.*?)(?=\n\s*----|\n----|----|$)",
+    "Archive": r"## \*Archive\*\s*(.*?)(?=\n\s*----|\n----|----|$)"
+}
+
+logger = colorlog.getLogger(__name__)
+
+
 class Note:
     """
     Represents a client note with details about the action taken, summary, and status.
@@ -46,7 +55,7 @@ class Note:
         return f"{self.action}:{self.status}"
 
 
-def parse_client_notes(section_content):
+def parse_client_notes(note_section_content:str) -> list[Note]:
     """
     Parse client notes from markdown text and return Note objects.
 
@@ -55,30 +64,32 @@ def parse_client_notes(section_content):
     - Uses regex with lookahead to separate notes.
     
     Args:
-        section_content (str): The content of the section to parse.
+        note_section_content (str): The content of the section to parse.
     Returns:
         list[Note]: A list of Note objects parsed from the section content.
     """
-    if not section_content:
+    if not note_section_content:
         return []
-    matches = re.findall(NOTE_PATTERN, section_content, re.DOTALL)
+    matches = re.findall(NOTE_PATTERN, note_section_content, re.DOTALL)
     notes = []
     for started, updated, action, summary, status in matches:
         notes.append(Note(started, updated, action, summary, status))
     return notes
 
-def extract_section_content(content, section_name):
+def extract_note_section(content:str, section_name:str) -> str:
     """Extract content from a specific section of the markdown file."""
-    pattern = rf"## \*{re.escape(section_name)}\*\s*(.*?)(?=\n\s*----|\n----|----|$)"
+    pattern = NOTE_SECTIONS.get(section_name)
+    if not pattern:
+        return None
     match = re.search(pattern, content, re.DOTALL)
     if match:
-        section_content = match.group(1).strip()
-        if section_content:
-            return section_content
+        note_section_content = match.group(1).strip()
+        if note_section_content:
+            return note_section_content  
     return None
 
 
-def get_active_mods(content, client_name):
+def get_active_mods(content:str, client_name:str) -> list[dict]:
     """Extract active modifications for a client from the markdown content.
     Args:
         content (str): The markdown content of the client file.
@@ -86,21 +97,22 @@ def get_active_mods(content, client_name):
     Returns:
         list[dict]: A list of dictionaries containing active modifications for the client.
     """
-    active_client_mods = []
-    # Extract in progress 
-    in_progress_content = extract_section_content(content, "In Progress")
+    active_mod_list = []
+
+    # Extract in progress
+    in_progress_content = extract_note_section(content, "In Progress")
     # Extract que sections
-    que_content = extract_section_content(content, "Que")
-    
+    que_content = extract_note_section(content, "Que")
+
     # Parse the detailed notes from each section
     in_progress_notes = parse_client_notes(in_progress_content)
     que_notes = parse_client_notes(que_content)
     
     # Only include clients with active items
     if in_progress_notes or que_notes:
-        active_client_mods.append({
+        active_mod_list.append({
             'name': client_name,
             'in_progress': in_progress_notes,
             'que': que_notes
         })
-    return active_client_mods
+    return active_mod_list
